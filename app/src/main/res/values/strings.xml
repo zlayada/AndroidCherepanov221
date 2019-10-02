@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Записная книжка в SharedPreferences</string>
+    <string name="tBtnOk">Сохранить</string>
+
+</resources>
